@@ -1,0 +1,26 @@
+{
+  "name": "@radif/db",
+  "version": "0.0.0",
+  "description": "Coming soon: a graph + relational database. Part of épure.",
+  "homepage": "https://epuremethod.com",
+  "keywords": [
+    "database",
+    "graph",
+    "relational",
+    "epure"
+  ],
+  "license": "MIT",
+  "author": "Gaspard Anna Bucher <g.a.bucher@midasum.com>",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radifdb/radif.git",
+    "directory": "db"
+  }
+}

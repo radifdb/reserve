@@ -1,0 +1,18 @@
+{
+  "name": "radif-monorepo",
+  "private": true,
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.17.1",
+  "homepage": "https://epuremethod.com",
+  "description": "radif monorepo",
+  "scripts": {
+    "pub": "./bin/publish.sh",
+    "pub:dry": "./bin/publish.sh --dry-run"
+  },
+  "author": "Gaspard Anna Bucher <g.a.bucher@midasum.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radifdb/radif.git"
+  }
+}
